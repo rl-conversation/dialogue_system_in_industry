@@ -52,6 +52,8 @@
 
 #### 文章评论
 
+3.[北航大数据高精尖中心研究团队对问答系统的调研](https://github.com/BDBC-KG-NLP/QA-Survey)
+
 2.[Yibot-知识体系运营](https://mp.weixin.qq.com/s/9-HUoePmGvv40JVWcPtHew)
 
 1.[贝壳找房的客服系统](https://mp.weixin.qq.com/s/b-Y8LUlKt8WOHtJG-HHFGA)

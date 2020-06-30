@@ -52,6 +52,8 @@
 
 #### 文章评论
 
+5.[58智能客服QABot问答机器人算法实践](https://mp.weixin.qq.com/s/o7x1BigfIMJIJEGxlFlLow)
+
 4.[行业内关于智能客服、聊天机器人的应用和架构、算法分享和介绍](https://github.com/lizhe2004/chatbot-list)
 
 3.[北航大数据高精尖中心研究团队对问答系统的调研](https://github.com/BDBC-KG-NLP/QA-Survey)

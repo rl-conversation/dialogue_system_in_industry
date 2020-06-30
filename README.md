@@ -52,6 +52,10 @@
 
 #### 文章评论
 
+2.[Yibot-知识体系运营](https://mp.weixin.qq.com/s/9-HUoePmGvv40JVWcPtHew)
+
+1.[贝壳找房的客服系统](https://mp.weixin.qq.com/s/b-Y8LUlKt8WOHtJG-HHFGA)
+
 0.[阿里小蜜-电商领域的智能助理技术实践,阿里巴巴-智能服务事业部-小蜜机器人X-Lab ——张佶(吉仁)](http://bos.itdks.com/79928a1b774c4d88a0c1b171d990263e.pdf)
 
 微软和剑桥基于RL的工作用于多轮增强式导购。相关工作：[蚂蚁金融-温祖杰的分享]()。基于强化学习的交互式澄清，基于强化学习的交互式文本推荐，基于强化学习的客户路由三个工作。

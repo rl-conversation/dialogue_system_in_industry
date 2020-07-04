@@ -52,6 +52,22 @@
 
 #### 文章评论
 
+9.[Chatbot and Related Research Paper Notes with Images](https://github.com/ricsinaruto/Seq2seqChatbots/wiki/Chatbot-and-Related-Research-Paper-Notes-with-Images#kaisheng-yao-baolin-peng-geoffrey-zweig-kam-fai-wong)
+
+列举了一些比较早期的对话系统相关的文章，以生成式对话系统为主，同时列举了具体的文章的知识点和相关的图片。
+
+8.[商用对话机器人技术及挑战](https://mp.weixin.qq.com/s/Tq61UOry2mnFaMSOIeV1wg)
+
+简单描述了爱因互动的机器人技术，这家主要是给大B做机器人。CTO之前是在世纪佳缘做Bot的（**单身狗，划重点了**）。
+
+7.[Google Duplex(用于Google的Assistant)](https://ai.googleblog.com/2018/05/duplex-ai-system-for-natural-conversation.html)
+
+Duplex是语音机器人，文章中列举了具体的人机交互的语音片段，同时分享了一张Duplex的Lead和工程manager用Duplex订餐，并合影的图片，才是最酷的。
+
+6.[你问我答之「智能客服评价体系全解读」](https://mp.weixin.qq.com/s?__biz=MzIzNzY5NDM2Nw==&mid=2247484049&idx=1&sn=d1d100abb898663900ccc2aa78aea0ad&chksm=e8c5fe61dfb2777732b9eada85bdde26c6cdd6b2c707ccf14f8c8d3dedb2bd7128c38bfc2bce&scene=21#wechat_redirect)
+
+客服系统评价体系：用户角度（提升满意度），运营角度（提高拦截率，少写正则，逃），技术角度（技术指标要高）
+
 5.[58智能客服QABot问答机器人算法实践](https://mp.weixin.qq.com/s/o7x1BigfIMJIJEGxlFlLow)
 
 4.[行业内关于智能客服、聊天机器人的应用和架构、算法分享和介绍](https://github.com/lizhe2004/chatbot-list)

@@ -52,6 +52,20 @@
 
 #### 文章评论
 
+10.[如何让智能客服更有温度？](https://mp.weixin.qq.com/s/d6ie_Q-NyMh4Sp4mXWqpyQ)
+
+问题：目前的智能客服大多是采用配置的答案，这就导致了千人一面的现象。不同的用户询问一样的问题得到的答案是一样的，然后现实情况是很多问题由于用户的信息不一样，答案也是不一样的。
+
+解决方案：
+
+（1）多级置信
+
+当置信度达到一定时，我们认为结果完全正确，那么我们就直接给出结果。当置信值低于这个阈值，但是又不至于过低时，机器人则可以将解析结果进行反问，询问用户是否询问该问题。如果置信值低于一定时，机器人认为用户说的话无意义，机器人反问用户：“您说的话我没有理解，您可以简单重新描述下您的问题”。
+
+（2）推荐
+
+相关性推荐；预测推荐；生成推荐；提醒
+
 9.[Chatbot and Related Research Paper Notes with Images](https://github.com/ricsinaruto/Seq2seqChatbots/wiki/Chatbot-and-Related-Research-Paper-Notes-with-Images#kaisheng-yao-baolin-peng-geoffrey-zweig-kam-fai-wong)
 
 列举了一些比较早期的对话系统相关的文章，以生成式对话系统为主，同时列举了具体的文章的知识点和相关的图片。

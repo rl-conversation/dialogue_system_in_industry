@@ -52,6 +52,12 @@
 
 #### 文章评论
 
+11.[不是所有的智能机器人都能做好客服——浅谈智能客服机器人评价指标新趋势](https://mp.weixin.qq.com/s/n-uicubtTFyOH00HAvRgMQ)
+
+比较全面的智能客服评价体系。
+
+补充：[追一的评价体系](https://mp.weixin.qq.com/s/Xj2QMbZXPLigiFhsT33k_A)
+
 10.[如何让智能客服更有温度？](https://mp.weixin.qq.com/s/d6ie_Q-NyMh4Sp4mXWqpyQ)
 
 问题：目前的智能客服大多是采用配置的答案，这就导致了千人一面的现象。不同的用户询问一样的问题得到的答案是一样的，然后现实情况是很多问题由于用户的信息不一样，答案也是不一样的。

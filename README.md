@@ -52,6 +52,10 @@
 
 #### 文章评论
 
+12.[周明的分享](https://mp.weixin.qq.com/s/FBynWU8BLyJcUomO3Y8mSg)
+
+比较系统的分享了微软在聊天机器人中的尝试：包括常见的FAQ，TaskBot，Chatbot，包括DocBot，TableBot等。
+
 11.[不是所有的智能机器人都能做好客服——浅谈智能客服机器人评价指标新趋势](https://mp.weixin.qq.com/s/n-uicubtTFyOH00HAvRgMQ)
 
 比较全面的智能客服评价体系。

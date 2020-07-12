@@ -52,6 +52,20 @@
 
 #### 文章评论
 
+13.[解密 chatbot 人工智能聊天机器人 技术沙龙](https://mp.weixin.qq.com/s/r7vPOSdH7XK_3jc1WLqr2Q)
+
+在自然语言理解的难点总结上比较到位：
+
+（1）多样性
+
+（2）歧义性
+
+（3）鲁棒性
+
+（4）上下文
+
+（5）知识依赖
+
 12.[周明的分享](https://mp.weixin.qq.com/s/FBynWU8BLyJcUomO3Y8mSg)
 
 比较系统的分享了微软在聊天机器人中的尝试：包括常见的FAQ，TaskBot，Chatbot，包括DocBot，TableBot等。
